@@ -1,0 +1,5 @@
+Demo script steps:
+1. Start sensors
+2. Upload leaf image
+3. Receive AI response
+4. Upload to IPFS
